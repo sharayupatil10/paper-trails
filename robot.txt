@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sharayupatil10.github.io/paper-trails/sitemap.xml
